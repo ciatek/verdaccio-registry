@@ -1,0 +1,18 @@
+{
+  "name": "verdaccio-test-package",
+  "version": "1.0.1",
+  "description": "Test package for local Verdaccio registry practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "verdaccio",
+    "test"
+  ],
+  "author": "khalil",
+  "license": "ISC",
+  "dependencies": {
+    "verdaccio-test-package": "^1.0.0"
+  }
+}
