@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Verdaccio data
+storage/
+htpasswd
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
