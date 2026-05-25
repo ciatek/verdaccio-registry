@@ -30,5 +30,9 @@ listen:
   - 0.0.0.0:4873
 
 web:
+  enable: true
   title: Ciatek Private Registry
   logo: https://media.licdn.com/dms/image/v2/C4E0BAQGS3ri7l7XaTQ/company-logo_200_200/company-logo_200_200/0/1675163479124/ciatekit_logo?e=2147483647&v=beta&t=ettqXX06JozV6X_jCu5VJuuXmgObsdwooh1Eoj1oUjg
+  scope: "@ciatek"
+  sort_packages: asc
+  
