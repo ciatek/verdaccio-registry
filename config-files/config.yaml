@@ -9,6 +9,10 @@ uplinks:
     url: https://registry.npmjs.org/
 
 packages:
+  "@ciatek/*":
+    access: $authenticated
+    publish: $authenticated
+
   "@*/*":
     access: $authenticated
     publish: $authenticated
